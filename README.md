@@ -401,7 +401,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![image](https://github.com/user-attachments/assets/3fcec973-7dc8-49fa-b388-ca11b8d9306b)
+![Screenshot 2024-10-09 093829](https://github.com/user-attachments/assets/30b84bf7-ff35-485d-b33d-db56d116f13e)
 
  
 ## Result :
